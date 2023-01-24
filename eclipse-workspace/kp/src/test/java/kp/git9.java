@@ -8,5 +8,14 @@ public class git9 {
 		System.out.println("hg");
 		
 	}
+	private void tc3() {
+		System.out.println("ki");
+		
+	}
+	private void tc4() {
+		System.out.println("po");
+		
+	}
+	
 
 }
